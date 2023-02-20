@@ -22,6 +22,7 @@ The model is implemented using Python3 with dependencies specified in requiremen
 - scikit_learn 0.23.1
 ## Dataset
 The observed hydroclimatic data and the SPEI data used in this study are available from the author Yanfang Sang upon request (sangyf@igsnrr.ac.cn).
+
 ## Model Training
 ```
 python train_multi_step.py --adj_data <GraphSensor> --data <data> --num_nodes <num_nodes>
