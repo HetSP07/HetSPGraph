@@ -14,7 +14,7 @@ This code was tested on a system with the following specifications:
 - OS: Ubuntu 18.04 LTS
 - Memory (RAM): 32GB
 - disk storage: 1TB
-- GPU: NVIDIA GeForce GTX 1650
+- GPU: 1x NVIDIA GeForce GTX 1650
 
 The model is implemented using Python3 with dependencies specified in requirements.txt.
 - matplotlib 3.1.1
