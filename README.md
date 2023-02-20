@@ -1,6 +1,7 @@
 ## HetSPGraph: Spatio-temporal Heterogeneous Graph using Multivariate Earth Observation Time Series
 This is a PyTorch implementation of the paper : Heterogeneous Spatio-temporal Graph using Multivariate Earth
-Observation Time Series: Application for drought forecasting (submitted to [Computers and Geosciences](https://www.sciencedirect.com/journal/computers-and-geosciences)
+Observation Time Series: Application for drought forecasting (submitted to [Computers and Geosciences](https://www.sciencedirect.com/journal/computers-and-geosciences)) 
+
 The aim oh this project is to provide a model that explores the Multivariate Earth Observation Time Series using HetSPGraph.
 The main characteristics of HetSPGraph are:
 - A novel HetSPGraph approach with three layers is proposed
