@@ -4,6 +4,7 @@ The main characteristics of HetSPGraph are:
 - A novel HetSPGraph approach with three layers is proposed
 - Dynamic spatiotemporal correlation at multi-time scales can be described by HetSPGraph
 - The HetSPGraph model can keep its stable accuracy at long-term forecasting period
+<img src="Flowchart.png" width="500">
 
 ## Hardware and Software Requirements
 This code was tested on a system with the following specifications:
